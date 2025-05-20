@@ -1,2 +1,2 @@
 # Project-Swing-Boat
-Project in Python for Mathematics Labatory
+Numerical and symbolic solution of a vibration differential equation for a swing boat.
